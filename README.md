@@ -15,7 +15,7 @@ En fait c'est à peu près tout, je pourrais dire que j'ai fait de l'Allemand au
 
 ## Quelques statistiques
 
-[![GitHub Streak](https://github-readme-streak-stats-weld-one.vercel.app?user=TheRealSharKzy&theme=buefy&locale=fr)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-weld-one.vercel.app/?user=TheRealSharKzy&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)
 
 # Contact :
 📧 tboillot0@gmail.com
